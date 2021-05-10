@@ -82,10 +82,10 @@ button{
     transition: transform 0.5s;
 }
 .card1{
-    background-image: url(images/Shell.jpg);
+    background-image: url(images/shell.jpg);
 }
 .card2{
-    background-image: url(images/Coldy.jpg);
+    background-image: url(images/coldy.jpg);
 }
 .card3{
     background-image: url(images/Delirium.jpg);
